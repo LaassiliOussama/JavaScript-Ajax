@@ -1,2 +1,0 @@
-# JavaScript-Ajax
-Projet Controle
